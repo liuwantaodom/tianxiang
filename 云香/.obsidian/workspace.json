@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff8377ead7d27191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天香 · 完整版大纲 V6.0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "天香 · 完整版大纲 V6.0"
-            }
-          },
-          {
             "id": "6a34fc5bbaaac6d1",
             "type": "leaf",
             "state": {
@@ -42,185 +28,63 @@
             }
           },
           {
-            "id": "a98a5a150869ff0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "曹文彬.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "曹文彬"
-            }
-          },
-          {
-            "id": "37aaf1f309437d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "陈四.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "陈四"
-            }
-          },
-          {
-            "id": "d5d1ba0b2c206d66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刘长贵.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "刘长贵"
-            }
-          },
-          {
             "id": "48e084a807fd766e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "cde089ba632814d1",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "刘长贵.md",
+                "file": "已发布摘要/第十五章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "刘长贵"
+              "title": "第十五章"
             }
           },
           {
-            "id": "7f0ddb267524dfad",
+            "id": "58ed956c832485e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "郑冬花.md",
+                "file": "仕途品级与人物封号总表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "郑冬花"
+              "title": "仕途品级与人物封号总表"
             }
           },
           {
-            "id": "48cc3fbcd94a1397",
+            "id": "016ff0d96423d74c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天香日常经济技术Facts.md",
+                "file": "伏笔回收计划表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "天香日常经济技术Facts"
+              "title": "伏笔回收计划表"
             }
           },
           {
-            "id": "20d8c6028d719331",
+            "id": "b7b072a4c233d0bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天香纱.md",
+                "file": "分卷剧情脉络.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "天香纱"
-            }
-          },
-          {
-            "id": "0cf0cf821f175ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "苏锦婳.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "苏锦婳"
-            }
-          },
-          {
-            "id": "1cf7531cd1524486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "佟世安.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "佟世安"
-            }
-          },
-          {
-            "id": "424c12f6204b851d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "王翠娥.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "王翠娥"
-            }
-          },
-          {
-            "id": "0ba3758c8bfe2f0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天香纱.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "天香纱"
-            }
-          },
-          {
-            "id": "c70925efd2efffa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "沈诚之.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "沈诚之"
+              "title": "分卷剧情脉络"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -293,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沈诚之.md",
+                "file": "分卷剧情脉络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "沈诚之 的反向链接列表"
+              "title": "分卷剧情脉络 的反向链接列表"
             }
           },
           {
@@ -312,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "沈诚之.md",
+                "file": "分卷剧情脉络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "沈诚之 的出链列表"
+              "title": "分卷剧情脉络 的出链列表"
             }
           },
           {
@@ -355,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "沈诚之.md",
+                "file": "分卷剧情脉络.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "沈诚之 的大纲"
+              "title": "分卷剧情脉络 的大纲"
             }
           }
         ]
@@ -382,30 +246,42 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c70925efd2efffa8",
+  "active": "b7b072a4c233d0bb",
   "lastOpenFiles": [
-    "沈明之.md",
-    "天香纱.md",
-    "沈诚之.md",
-    "沈砚之.md",
-    "王翠娥.md",
-    "佟世安.md",
-    "苏锦婳.md",
-    "嘉庆帝.md",
-    "天香日常经济技术Facts.md",
-    "沈老栓.md",
-    "郑冬花.md",
-    "刘墉.md",
-    "刘长贵.md",
-    "陈四.md",
-    "曹文彬.md",
-    "永顺丝行.md",
-    "天香 · 完整版大纲 V6.0.md",
-    "大纲-双链版.md",
-    "欢迎.md",
-    "未命名",
+    "大纲/全书总纲.md",
+    "大纲/天香 · 完整版大纲 V6.0.md",
+    "世界观设定.md",
+    "核心主题.md",
+    "伏笔回收计划表.md",
+    "分卷剧情脉络.md",
+    "仕途品级与人物封号总表.md",
+    "已发布摘要/第十五章.md",
+    "天香归荣.md",
+    "已发布摘要/第二十章.md",
+    "已发布章节/第一卷/第1章 全村都笑她嫁个傻子.md",
+    "已发布摘要/第一章.md",
+    "已发布摘要/第五章.md",
+    "已发布摘要/第四章.md",
+    "已发布摘要/第十章.md",
+    "已发布摘要/第十一章.md",
+    "已发布摘要/第十四章.md",
+    "已发布摘要/第十三章.md",
+    "已发布摘要/第十七章.md",
+    "已发布摘要/第十六章.md",
+    "已发布摘要/第十九章.md",
+    "已发布摘要/第十二章.md",
+    "已发布摘要/第十八章.md",
+    "已发布摘要/第三章.md",
+    "已发布摘要/第七章.md",
+    "已发布摘要/第六章.md",
+    "已发布摘要",
+    "已发布章节/未命名",
+    "已发布章节/第一卷",
+    "已发布章节",
+    "物品卡",
+    "大纲",
+    "人物卡",
     "未命名.base",
-    "未命名 1",
-    "盐商.md"
+    "未命名 1"
   ]
 }
