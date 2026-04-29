@@ -1,0 +1,411 @@
+{
+  "main": {
+    "id": "c5a0277e2ef1eb3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "10d9a9efd8db0d76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8377ead7d27191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "天香 · 完整版大纲 V6.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "天香 · 完整版大纲 V6.0"
+            }
+          },
+          {
+            "id": "6a34fc5bbaaac6d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "7156579ea3840a3b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "a98a5a150869ff0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "曹文彬.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "曹文彬"
+            }
+          },
+          {
+            "id": "37aaf1f309437d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "陈四.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "陈四"
+            }
+          },
+          {
+            "id": "d5d1ba0b2c206d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刘长贵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "刘长贵"
+            }
+          },
+          {
+            "id": "48e084a807fd766e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "cde089ba632814d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刘长贵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "刘长贵"
+            }
+          },
+          {
+            "id": "7f0ddb267524dfad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "郑冬花.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "郑冬花"
+            }
+          },
+          {
+            "id": "48cc3fbcd94a1397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "天香日常经济技术Facts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "天香日常经济技术Facts"
+            }
+          },
+          {
+            "id": "20d8c6028d719331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "天香纱.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "天香纱"
+            }
+          },
+          {
+            "id": "0cf0cf821f175ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "苏锦婳.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "苏锦婳"
+            }
+          },
+          {
+            "id": "1cf7531cd1524486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "佟世安.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "佟世安"
+            }
+          },
+          {
+            "id": "424c12f6204b851d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "王翠娥.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "王翠娥"
+            }
+          },
+          {
+            "id": "0ba3758c8bfe2f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "天香纱.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "天香纱"
+            }
+          },
+          {
+            "id": "c70925efd2efffa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "沈诚之.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "沈诚之"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5c7ca2aaf595d4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5db7c735b9b17b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0225931b2cd3f341",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ac23db3b17e8b2c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "56cda6f37a19b98a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "649959c2681b56cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2c01dd3efd467d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "872594e4402ac95b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "沈诚之.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "沈诚之 的反向链接列表"
+            }
+          },
+          {
+            "id": "4e3cc2745d8c31b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "沈诚之.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "沈诚之 的出链列表"
+            }
+          },
+          {
+            "id": "3c907c1132b2b4d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6d3ebf619ab72c3c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "cfdf293806f07b1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "沈诚之.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "沈诚之 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "c70925efd2efffa8",
+  "lastOpenFiles": [
+    "沈明之.md",
+    "天香纱.md",
+    "沈诚之.md",
+    "沈砚之.md",
+    "王翠娥.md",
+    "佟世安.md",
+    "苏锦婳.md",
+    "嘉庆帝.md",
+    "天香日常经济技术Facts.md",
+    "沈老栓.md",
+    "郑冬花.md",
+    "刘墉.md",
+    "刘长贵.md",
+    "陈四.md",
+    "曹文彬.md",
+    "永顺丝行.md",
+    "天香 · 完整版大纲 V6.0.md",
+    "大纲-双链版.md",
+    "欢迎.md",
+    "未命名",
+    "未命名.base",
+    "未命名 1",
+    "盐商.md"
+  ]
+}
