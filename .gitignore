@@ -1,1 +1,3 @@
-# OpenCode config and dependencies`r`n.opencode/`r`nnode_modules/`r`n
+# OpenCode config and dependencies
+.opencode/
+node_modules/
